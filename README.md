@@ -1,8 +1,6 @@
 # Raytracing-in-one-weekend
-<<<<<<< HEAD
 Ray Tracing in One Weekend, writed and adapted by me with Purebasic programming.
-=======
-Ray Tracing in One Weekend, writed and adapted with Purebasic programming.
+
 
 
 Intro
@@ -27,4 +25,4 @@ PS : Tested with Purebasic version 6.04.
 
 If You want try it go here this link [Purebasic](https://www.purebasic.com/) for more info :)
 
->>>>>>> 98e446e (Second commit)
+
