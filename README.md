@@ -16,6 +16,8 @@ Maybe it is not well writed but it works so you can see and to test it.
 
 File 1, 2, 3 and 4 is writed in image file and 5 and 6 rendered in Purebasic without image file, voilà.
 
+Update : file 7 adding.
+
 
 Happy coding !
 
